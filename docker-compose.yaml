@@ -37,9 +37,10 @@ services:
     restart: always
     volumes: ['./:/var/www/html']
     environment:
+      WORDPRESS_DB_NAME: startbookingdemo
       WORDPRESS_DB_HOST: db
-      WORDPRESS_DB_USER: wordpress
-      WORDPRESS_DB_PASSWORD: wordpress
+      WORDPRESS_DB_USER: root
+      WORDPRESS_DB_PASSWORD: password
     networks:
       - wp-site
 networks:
