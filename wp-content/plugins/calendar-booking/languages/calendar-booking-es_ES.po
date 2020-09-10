@@ -1,0 +1,1079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Start Booking\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-12 08:20-0600\n"
+"PO-Revision-Date: 2020-05-12 17:03-0600\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: start-booking.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/404.php:1
+msgid "Content not found."
+msgstr "Contenido no encontrado."
+
+#: admin/account.php:16
+msgid "Last step, finish creating your account."
+msgstr "El último paso, termina de crear tu cuenta."
+
+#: admin/account.php:17
+#, fuzzy
+msgid "The last step is to create your account name and location."
+msgstr "El último paso es crear el nombre y la ubicación de su cuenta."
+
+#: admin/account.php:27
+msgid "Account Name"
+msgstr "Nombre de la cuenta"
+
+#: admin/account.php:37
+#: inc/copy.php:61
+#: public/js/admin/onboarding.js:77475
+msgid "Address"
+msgstr "Dirección"
+
+#: admin/account.php:48
+msgid "City"
+msgstr "Ciudad"
+
+#: admin/account.php:59
+msgid "State"
+msgstr "Estado"
+
+#: admin/account.php:70
+msgid "Zip"
+msgstr "Código postal"
+
+#: admin/account.php:81
+msgid "Country"
+msgstr "País"
+
+#: admin/account.php:90
+#, fuzzy
+msgid "Complete and get started"
+msgstr "Completa y comienza"
+
+#: admin/connect.php:16
+#, fuzzy
+msgid "Connect your account."
+msgstr "Conecta tu cuenta."
+
+#: admin/connect.php:17
+#, fuzzy
+msgid "Connect your Start Booking account with your WordPress website by entering your Start Booking email and password."
+msgstr "Conecte su cuenta de Inicio de Reserva con su sitio web de WordPress introduciendo su correo electrónico y contraseña de Inicio de Reserva."
+
+#: admin/connect.php:27
+#: admin/signup.php:49
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: admin/connect.php:37
+#: admin/signup.php:59
+msgid "Password"
+msgstr "Contraseña"
+
+#: admin/connect.php:45
+#, fuzzy
+msgid "Connect with Start Booking"
+msgstr "Conéctese con Iniciar reserva"
+
+#: admin/connect.php:48
+msgid "Forgot your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+#: admin/connect.php:57
+#, fuzzy
+msgid "Back to Signup"
+msgstr "Volver al registro"
+
+#: admin/connect.php:59
+msgid "Don't have an account?"
+msgstr "¿No tienes una cuenta?"
+
+#: admin/connected/classes.php:10
+#, fuzzy
+msgid "Upgrade for classes"
+msgstr "Actualización para clases"
+
+#: admin/connected/classes.php:11
+#, fuzzy
+msgid "Manage and schedule classes with ease with our online class and scheduling system. From yoga to spinning, hikes to education and so much more."
+msgstr "Gestione y programe clases con facilidad con nuestro sistema de clases y programación en línea. Desde yoga hasta spinning, caminatas, educación y mucho más."
+
+#: admin/connected/classes.php:13
+msgid "Customizable"
+msgstr "Personalizable"
+
+#: admin/connected/classes.php:13
+msgid "Emails"
+msgstr "Emails"
+
+#: admin/connected/classes.php:16
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin/connected/classes.php:16
+#: public/js/blocks/default-classes.js:71628
+#: public/js/blocks/legacy-class.js:106874
+msgid "Schedules"
+msgstr "Horarios"
+
+#: admin/connected/classes.php:19
+msgid "Recurring"
+msgstr "Recurrente"
+
+#: admin/connected/classes.php:19
+#: admin/connected/header.php:30
+#: admin/connected/settings/embed.php:39
+#: inc/menu.php:11
+#: public/js/admin/editor.js:94550
+#: public/js/admin/onboarding.js:77369
+#: public/js/blocks/default-classes.js:71377
+#: public/js/blocks/default-classes.js:71622
+#: public/js/blocks/legacy-class.js:106868
+msgid "Classes"
+msgstr "Clases"
+
+#: admin/connected/classes.php:21
+#, fuzzy
+msgid "Select Upgrade"
+msgstr "Seleccione Actualizar"
+
+#: admin/connected/dashboard.php:10
+#: public/js/admin/graph/graph.js:66
+#: resources/assets/js/admin/jquery/graph/graph.js:66
+#, fuzzy
+msgid "Bookings"
+msgstr "Reservas"
+
+#: admin/connected/header.php:24
+#: inc/menu.php:9
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: admin/connected/header.php:27
+#: admin/connected/settings/embed.php:23
+#: inc/copy.php:47
+#: inc/copy.php:83
+#: inc/menu.php:10
+#: inc/widgets/single-service.php:54
+#: public/js/admin/editor.js:94480
+#: public/js/admin/onboarding.js:77337
+#: public/js/admin/services.js:76484
+#: public/js/admin/services.js:76528
+#: public/js/admin/services.js:76599
+#: public/js/admin/services.js:77599
+#: public/js/blocks/call-to-action.js:61408
+#: public/js/blocks/default-appointment.js:63517
+#: public/js/blocks/default-appointment.js:63599
+#: public/js/blocks/single-service.js:264
+msgid "Services"
+msgstr "Servicios"
+
+#: admin/connected/header.php:33
+#: inc/menu.php:12
+#: public/js/blocks/call-to-action.js:61420
+#: public/js/blocks/default-appointment.js:63611
+#: public/js/blocks/default-classes.js:71634
+#: public/js/blocks/single-service.js:276
+msgid "Form Editor"
+msgstr "Editor de Formulario"
+
+#: admin/connected/header.php:36
+#: inc/menu.php:13
+#: public/js/admin/editor.js:94448
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/connected/header.php:40
+#, fuzzy
+msgid "Go to Start Booking &rarr;"
+msgstr "Vaya a Iniciar reserva &rarr;"
+
+#: admin/connected/settings.php:47
+#: public/js/admin/services.js:77586
+msgid "NAVIGATION"
+msgstr "NAVEGACIÓN"
+
+#: admin/connected/settings.php:51
+#: admin/connected/settings/embed.php:5
+msgid "Embed Options"
+msgstr "Incrustar Opciones"
+
+#: admin/connected/settings.php:52
+#: admin/connected/settings/general.php:13
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: admin/connected/settings.php:53
+#: admin/connected/settings/integrations.php:7
+msgid "Integrations"
+msgstr "Integraciones"
+
+#: admin/connected/settings.php:54
+#: admin/connected/settings/connection.php:7
+#: inc/menu.php:14
+msgid "Connection"
+msgstr "Conexión"
+
+#: admin/connected/settings.php:55
+#: admin/connected/settings/user.php:8
+#: admin/connected/settings/users.php:7
+msgid "Users"
+msgstr "Usuarios"
+
+#: admin/connected/settings/connection.php:12
+#, fuzzy
+msgid "Disable Booking"
+msgstr "Desactivar reserva"
+
+#: admin/connected/settings/connection.php:16
+#: public/js/admin/editor.js:102784
+#: public/js/admin/editor.js:102885
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/connected/settings/connection.php:22
+#, fuzzy
+msgid "Disabling Start Booking will not remove your connection but will stop your customers from being able to book new appointments with you."
+msgstr "Deshabilitar Iniciar reserva no eliminará su conexión, pero impedirá que sus clientes puedan reservar nuevas citas con usted."
+
+#: admin/connected/settings/connection.php:27
+msgid "API Settings"
+msgstr "Configuración de la API"
+
+#: admin/connected/settings/connection.php:30
+msgid "Method"
+msgstr "Método"
+
+#: admin/connected/settings/connection.php:35
+msgid "Default"
+msgstr "Por defecto"
+
+#: admin/connected/settings/connection.php:36
+msgid "Proxy"
+msgstr "Proxy"
+
+#: admin/connected/settings/connection.php:37
+msgid "Direct"
+msgstr "Directo"
+
+#: admin/connected/settings/connection.php:45
+#, fuzzy
+msgid "If you are experiencing problems with your server cache causing duplicate appointments or settings not saving, try updating to the Direct method. Direct allows your plugin to communicate directly with the Start Booking service. Proxy, which is the default setting, runs all the communication with Start Booking through your WordPress site. When communication is handled via the proxy option, those communications can be delayed due to your server configuration."
+msgstr "Si tiene problemas con la memoria caché del servidor que provocan citas duplicadas o la configuración que no se guarda, intente actualizar al método Direct. Direct permite que su plugin se comunique directamente con el servicio Iniciar reserva. Proxy, que es la configuración predeterminada, ejecuta toda la comunicación con Start Booking a través de su sitio de WordPress. Cuando la comunicación se gestiona a través de la opción de proxy, esas comunicaciones pueden retrasarse debido a la configuración del servidor."
+
+#: admin/connected/settings/connection.php:50
+msgid "Reconnect"
+msgstr "Reconectarse"
+
+#: admin/connected/settings/connection.php:53
+#, fuzzy
+msgid "If you are having some issues with your connection, reconnect to establish a new connection. This process will not delete any of your other settings."
+msgstr "Si tiene algún problema con su conexión, vuelva a conectarse para establecer una nueva conexión. Este proceso no eliminará ninguna de sus otras configuraciones."
+
+#: admin/connected/settings/connection.php:84
+#: admin/connected/settings/connection.php:93
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#: admin/connected/settings/connection.php:87
+#, fuzzy
+msgid "Disconnecting Start Booking will delete all settings from your WordPress website. This does not cancel your account or delete anything on the Start Booking application."
+msgstr "Desconectar Start Booking eliminará todos los ajustes de su sitio web de WordPress. Esto no cancela su cuenta ni elimina nada en la aplicación Iniciar reserva."
+
+#: admin/connected/settings/embed.php:7
+#, fuzzy
+msgid "Embedding the Start Booking form on a page or post is really simple. If you are using the Gutenberg editor (<a target=\"_blank\" href=\"https://wordpress.org/gutenberg/\">Learn More</a>) you have the option to use our block embed which is listed below. If you are not using Gutenberg, we still support implementing shortcodes on any page or post as well."
+msgstr "Incrustar el formulario Iniciar reserva en una página o publicación es muy sencillo. Si está utilizando el editor Gutenberg (<a target=\"_blank\" href=\"https://wordpress.org/gutenberg/\">Más información</a>) tiene la opción de utilizar nuestro bloque embed que se enumera a continuación. Si no está utilizando Gutenberg, todavía admitimos la implementación de shortcodes en cualquier página o publicación también."
+
+#: admin/connected/settings/embed.php:12
+msgid "Blocks"
+msgstr "Bloques"
+
+#: admin/connected/settings/embed.php:14
+#, fuzzy
+msgid "To use the Gutenberg blocks, navigate to any page or post that you want to display your booking form. The services block will display a booking form for your services and the classes block will display a booking form to join one of your classes."
+msgstr "Para utilizar los bloques de Gutenberg, vaya a cualquier página o publicación en la que desee mostrar su formulario de reserva. El bloque de servicios mostrará un formulario de reserva para sus servicios y el bloque de clases mostrará un formulario de reserva para unirse a una de sus clases."
+
+#: admin/connected/settings/embed.php:20
+#, fuzzy
+msgid "Legacy Options - Shortcodes"
+msgstr "Opciones heredadas - Shortcodes"
+
+#: admin/connected/settings/embed.php:26
+#, fuzzy
+msgid "This shortcode is best used on a page that you want to display the full booking experience. This will provide users with a list of your available services for booking."
+msgstr "Este shortcode se utiliza mejor en una página en la que desea mostrar la experiencia de reserva completa. Esto proporcionará a los usuarios una lista de sus servicios disponibles para la reserva."
+
+#: admin/connected/settings/embed.php:31
+#: public/js/blocks/single-service.js:104
+#, fuzzy
+msgid "Single Service"
+msgstr "Servicio único"
+
+#: admin/connected/settings/embed.php:34
+#, fuzzy
+msgid "Use this shortcode if you want to predefine a specific service to be booked. Use the details option to either show the service details or skip directly to the calendar."
+msgstr "Utilice este shortcode si desea predefinir un servicio específico que se va a reservar. Utilice la opción de detalles para mostrar los detalles del servicio o ir directamente al calendario."
+
+#: admin/connected/settings/embed.php:42
+#, fuzzy
+msgid "This shortcode allows your customers to book classes from a calendar or list view with filtering and date range selection."
+msgstr "Este shortcode permite a sus clientes reservar clases desde una vista de calendario o lista con filtrado y selección de rango de fechas."
+
+#: admin/connected/settings/embed.php:43
+#, fuzzy
+msgid "<strong>Note</strong>: This shortcode requires a paid plan."
+msgstr "<strong>Nota:</strong>Este shortcode requiere un plan de pago."
+
+#: admin/connected/settings/general.php:16
+#, fuzzy
+msgid "Openings Interval"
+msgstr "Intervalo de aperturas"
+
+#: admin/connected/settings/general.php:18
+#, fuzzy
+msgid "Set the interval of time for available openings. Default is every 30 minutes."
+msgstr "Establezca el intervalo de tiempo para las aberturas disponibles. El valor predeterminado es cada 30 minutos."
+
+#: admin/connected/settings/general.php:19
+#: admin/connected/settings/general.php:27
+#: admin/connected/settings/general.php:35
+#: admin/connected/settings/general.php:43
+#, fuzzy
+msgid "Adjust on Start Booking &rarr;"
+msgstr "Ajustar en Iniciar reserva &rarr;"
+
+#: admin/connected/settings/general.php:24
+#, fuzzy
+msgid "Type of Location"
+msgstr "Tipo de ubicación"
+
+#: admin/connected/settings/general.php:26
+#, fuzzy
+msgid "This setting will change whether we display your address to customers. i.e. physical or digital."
+msgstr "Esta configuración cambiará si mostramos su dirección a los clientes. es decir, físico o digital."
+
+#: admin/connected/settings/general.php:32
+msgid "Currency"
+msgstr "Moneda"
+
+#: admin/connected/settings/general.php:34
+#, fuzzy
+msgid "Change the currency that is displayed."
+msgstr "Cambie la moneda que se muestra."
+
+#: admin/connected/settings/general.php:40
+msgid "Cancellations"
+msgstr "Cancelaciones"
+
+#: admin/connected/settings/general.php:42
+#, fuzzy
+msgid "This setting will add a link to the appointment confirmation email allowing the customer to cancel their own appointments."
+msgstr "Esta configuración agregará un enlace al correo electrónico de confirmación de cita que permite al cliente cancelar sus propias citas."
+
+#: admin/connected/settings/general.php:50
+#, fuzzy
+msgid "Endorse Us"
+msgstr "Apóyanos"
+
+#: admin/connected/settings/general.php:58
+#, fuzzy
+msgid "Display a small powered by Start Booking at the end of checkout to help support Start Booking."
+msgstr "Muestre un pequeño alimentado por Iniciar reserva al final de la compra para ayudar a admitir Iniciar reserva."
+
+#: admin/connected/settings/general.php:64
+msgid "Additional Data"
+msgstr "Información adicional"
+
+#: admin/connected/settings/general.php:72
+#, fuzzy
+msgid "Empower the Start Booking team to make data driven decisions by sharing basic information with us. This does not contain any confidential or sensitive information."
+msgstr "Capacite al equipo de Start Booking para que tome decisiones basadas en datos compartiendo información básica con nosotros. Esto no contiene ninguna información confidencial o confidencial."
+
+#: admin/connected/settings/integrations.php:12
+#, fuzzy
+msgid "To accept payments on your booking flow, connect your Start Booking account with Stripe. The Stripe integration will automatically add the payment form to your booking flow and you can control the display settings and requirements from the details tab of the <a href=\""
+msgstr "Para aceptar pagos en el flujo de reservas, conecte su cuenta de Inicio de reserva con Stripe. La integración de Stripe agregará automáticamente el formulario de pago a su flujo de reserva y puede controlar la configuración de visualización y los requisitos desde la pestaña de detalles de la <a href\""
+
+#: admin/connected/settings/integrations.php:14
+#: admin/connected/settings/integrations.php:24
+#: admin/connected/settings/integrations.php:34
+#: admin/connected/settings/integrations.php:44
+#: admin/connected/settings/integrations.php:54
+#, fuzzy
+msgid "Connect on Start Booking &rarr;"
+msgstr "Conectar en Iniciar reserva &rarr;"
+
+#: admin/connected/settings/integrations.php:22
+#, fuzzy
+msgid "With the Zoom integration, you can easily add interactive video conferencing with each appointment or class."
+msgstr "Con la integración de Zoom, puede agregar fácilmente videoconferencias interactivas con cada cita o clase."
+
+#: admin/connected/settings/integrations.php:32
+#, fuzzy
+msgid "Easily view and manage your appointments and availability straight from your Google Calendar. This integrations comes with <strong>two-way syncing</strong> between Google and the Start Booking platform and even allows you to monitor other calendars when we display your availability on your booking flow."
+msgstr "Visualiza y gestiona fácilmente tus citas y disponibilidad directamente desde tu calendario de Google. Estas integraciones vienen con <strong>sincronización bidireccional</strong> entre Google y la plataforma Start Booking e incluso le permite monitorear otros calendarios cuando mostramos su disponibilidad en su flujo de reservas."
+
+#: admin/connected/settings/integrations.php:42
+#, fuzzy
+msgid "Gain traffic insights and booking performance metrics in your existing Google Analytics account for various booking channels."
+msgstr "Obtenga información sobre el tráfico y métricas de rendimiento de reservas en su cuenta de Google Analytics existente para varios canales de reserva."
+
+#: admin/connected/settings/integrations.php:52
+#, fuzzy
+msgid "With Mailchimp, you can promote your business across email, social, landing pages, postcards, and more. Connect your account to push your Start Booking customers into your Mailchimp account."
+msgstr "Con Mailchimp, puedes promocionar tu negocio a través de correo electrónico, redes sociales, páginas de destino, postales y mucho más. Conecta tu cuenta para enviar a tus clientes de Start Booking a tu cuenta de Mailchimp."
+
+#: admin/connected/settings/timezone.php:9
+#, fuzzy
+msgid "Timezone & Locale"
+msgstr "Zona horaria y configuración regional"
+
+#: admin/connected/settings/timezone.php:14
+#, fuzzy
+msgid "Define what timezone the available appointments should display to your customers."
+msgstr "Defina qué zona horaria deben mostrarse las citas disponibles a sus clientes."
+
+#: admin/connected/settings/timezone.php:19
+msgid "Timezone"
+msgstr "Zona horaria"
+
+#: admin/connected/settings/timezone.php:24
+msgid "Visitor"
+msgstr "Visitante"
+
+#: admin/connected/settings/timezone.php:25
+msgid "Account"
+msgstr "Cuenta"
+
+#: admin/connected/settings/timezone.php:35
+#: public/js/admin/editor.js:113768
+#, fuzzy
+msgid "Calendar Locale"
+msgstr "Calendario Locale"
+
+#: admin/connected/settings/user.php:7
+#: admin/connected/settings/users.php:6
+msgid "Add User"
+msgstr "Añadir usuario"
+
+#: admin/connected/settings/user.php:16
+#: admin/connected/settings/users.php:18
+#: public/js/admin/services.js:76569
+#: public/js/admin/services.js:76931
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/connected/settings/user.php:19
+#: admin/connected/settings/users.php:21
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: admin/connected/settings/user.php:23
+#: admin/connected/settings/users.php:25
+#: public/js/blocks/call-to-action.js:61414
+#: public/js/blocks/default-appointment.js:63605
+#: public/js/blocks/single-service.js:270
+msgid "Availability"
+msgstr "Disponibilidad"
+
+#: admin/pricing.php:30
+#, fuzzy
+msgid "Select the plan that fits your needs"
+msgstr "Seleccione el plan que se adapte a sus necesidades"
+
+#: admin/pricing.php:31
+#, fuzzy
+msgid "Finally Easy Booking Without the High Costs"
+msgstr "Finalmente Reserva Fácil Sin los Altos Costos"
+
+#: admin/pricing.php:38
+msgid "Monthly"
+msgstr "Mensual"
+
+#: admin/pricing.php:41
+msgid "Annually"
+msgstr "Anual"
+
+#: admin/pricing.php:53
+msgid "Free"
+msgstr "Gratis"
+
+#: admin/pricing.php:58
+#: admin/pricing.php:69
+#: admin/pricing.php:80
+msgid "Select this plan"
+msgstr "Seleccione este plan"
+
+#: admin/pricing.php:64
+msgid "Individual"
+msgstr "Individual"
+
+#: admin/pricing.php:65
+#: admin/pricing.php:76
+msgid "month"
+msgstr "mes"
+
+#: admin/pricing.php:75
+msgid "Business"
+msgstr "Empresa"
+
+#: admin/pricing.php:94
+#: inc/copy.php:22
+#: inc/copy.php:71
+#: inc/enqueue.php:190
+#: public/js/blocks/default-appointment.js:63559
+#: public/js/blocks/default-classes.js:71436
+#: public/js/blocks/single-service.js:147
+#: public/js/blocks/single-service.js:183
+msgid "Continue"
+msgstr "Continuar"
+
+#: admin/signup.php:17
+#: public/js/admin/onboarding.js:76128
+#, fuzzy
+msgid "Welcome to Start Booking"
+msgstr "Bienvenido a Iniciar reserva"
+
+#: admin/signup.php:18
+#, fuzzy
+msgid "Start Booking powers thousands of service based individuals and businesses. Get started booking today!"
+msgstr "Iniciar reserva potencia a miles de personas y empresas basadas en servicios. ¡Comienza a reservar hoy mismo!"
+
+#: admin/signup.php:28
+#: inc/copy.php:19
+#: public/js/admin/editor.js:95132
+#: public/js/admin/editor.js:111583
+#: public/js/admin/editor.js:111598
+#: public/js/admin/editor.js:116712
+msgid "First Name"
+msgstr "Nombre"
+
+#: admin/signup.php:39
+#: inc/copy.php:20
+#: public/js/admin/editor.js:95160
+#: public/js/admin/editor.js:111635
+#: public/js/admin/editor.js:111650
+#: public/js/admin/editor.js:116764
+msgid "Last Name"
+msgstr "Apellido"
+
+#: admin/signup.php:67
+#, fuzzy
+msgid "Continue to next step"
+msgstr "Continúe con el siguiente paso"
+
+#: admin/signup.php:72
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: admin/signup.php:74
+#, fuzzy
+msgid "Start Booking was game changing in helping us schedule and manage our customers. Won't open another location without it."
+msgstr "Comenzar a reservar fue un juego que cambiaba para ayudarnos a programar y administrar a nuestros clientes. No abrirá otra ubicación sin ella."
+
+#: admin/signup.php:75
+#, fuzzy
+msgid "Barbershop Owner"
+msgstr "Propietario de la peluquería"
+
+#: admin/signup.php:90
+#, fuzzy
+msgid "Better Scheduling Software"
+msgstr "Mejor software de programación"
+
+#: admin/signup.php:91
+#, fuzzy
+msgid "Start Booking helps you stay focused on what's most important while providing you with the best online scheduling tools to grow your business. We have a lot of features that empower you to get more bookings!"
+msgstr "Start Booking te ayuda a mantenerte enfocado en lo que es más importante mientras te proporcionas las mejores herramientas de programación en línea para hacer crecer tu negocio. ¡Tenemos un montón de características que le permiten obtener más reservas!"
+
+#: admin/signup.php:203
+#: public/js/admin/dashboard.js:64310
+#: public/js/admin/services.js:76874
+msgid "Get Started"
+msgstr "Comenzar"
+
+#: admin/signup.php:224
+msgid "Already have an account with us?"
+msgstr "¿Ya tienes una cuenta con nosotros?"
+
+#: admin/signup.php:224
+#, fuzzy
+msgid "Let's get your site connected"
+msgstr "Vamos a conectar su sitio"
+
+#: admin/signup.php:230
+#: admin/signup.php:232
+#, fuzzy
+msgid "Connect Account"
+msgstr "Conectar cuenta"
+
+#: inc/base.php:372
+#: public/js/admin/editor.js:61663
+#: public/js/flows/default-appointment.js:61594
+#: public/js/flows/default-classes.js:61605
+#: public/js/flows/default-classes.js:80108
+#: public/js/flows/single-service.js:61594
+msgid "Loading"
+msgstr "Cargando"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: inc/blocks.php:11
+msgid "Start Booking"
+msgstr "Empieze la Reserva"
+
+#: inc/copy.php:6
+#, fuzzy
+msgid "Select a Date and Time"
+msgstr "Seleccione una fecha y hora"
+
+#: inc/copy.php:7
+#, fuzzy
+msgid "Available Times for"
+msgstr "Horarios disponibles"
+
+#: inc/copy.php:8
+#, fuzzy
+msgid "No appointments available on selected day."
+msgstr "No hay citas disponibles en el día seleccionado."
+
+#: inc/copy.php:9
+#, fuzzy
+msgid "Looking for available appointments."
+msgstr "Buscando citas disponibles."
+
+#: inc/copy.php:11
+#, fuzzy
+msgid "Selected date is in the past."
+msgstr "La fecha seleccionada está en el pasado."
+
+#: inc/copy.php:12
+#, fuzzy
+msgid "Please select a date and time."
+msgstr "Seleccione una fecha y hora."
+
+#: inc/copy.php:16
+msgid "Your Details"
+msgstr "Información General"
+
+#: inc/copy.php:17
+#, fuzzy
+msgid "Secure Profile Loaded from StartBooking.com"
+msgstr "Perfil seguro cargado desde StartBooking.com"
+
+#: inc/copy.php:18
+#: public/js/admin/editor.js:95104
+#: public/js/admin/editor.js:111531
+#: public/js/admin/editor.js:111546
+#: public/js/admin/editor.js:116660
+msgid "Email"
+msgstr "Email"
+
+#: inc/copy.php:21
+#: public/js/admin/editor.js:116816
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: inc/copy.php:25
+#, fuzzy
+msgid "Review & Confirm"
+msgstr "Revisar y Confirmar"
+
+#: inc/copy.php:26
+#: public/js/admin/onboarding.js:75204
+#: public/js/admin/services.js:75185
+#: public/js/admin/services.js:76209
+#: public/js/admin/services.js:77119
+#: public/js/admin/services.js:77443
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/copy.php:27
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/copy.php:28
+#: inc/copy.php:85
+#: public/js/admin/onboarding.js:77019
+msgid "Time"
+msgstr "Hora"
+
+#: inc/copy.php:29
+#: inc/copy.php:75
+#: public/js/admin/onboarding.js:75229
+#: public/js/admin/services.js:75210
+#: public/js/admin/services.js:76238
+msgid "Duration"
+msgstr "Duración"
+
+#: inc/copy.php:30
+msgid "Service(s)"
+msgstr "Servicio(s)"
+
+#: inc/copy.php:31
+msgid "Confirm Appointment"
+msgstr "Confirma reserva"
+
+#: inc/copy.php:34
+msgid "Select Services"
+msgstr "Seleccione servicios"
+
+#: inc/copy.php:35
+#, fuzzy
+msgid "Select Another Service"
+msgstr "Seleccione Otro servicio"
+
+#: inc/copy.php:36
+#, fuzzy
+msgid "Select a Service Type"
+msgstr "Seleccione un tipo de servicio"
+
+#: inc/copy.php:37
+#, fuzzy
+msgid "Loading service types..."
+msgstr "Cargando tipos de servicio..."
+
+#: inc/copy.php:39
+#, fuzzy
+msgid "Please select a service to continue."
+msgstr "Seleccione un servicio para continuar."
+
+#: inc/copy.php:43
+msgid "Summary"
+msgstr "Resumen"
+
+#: inc/copy.php:44
+msgid "Payment Information"
+msgstr "Información de Pago"
+
+#: inc/copy.php:45
+#: inc/copy.php:60
+#: inc/copy.php:84
+#: public/js/admin/editor.js:94502
+msgid "Appointment"
+msgstr "Cita"
+
+#: inc/copy.php:46
+#: public/js/blocks/call-to-action.js:61435
+#: public/js/blocks/single-service.js:283
+msgid "Service"
+msgstr "Servicio"
+
+#: inc/copy.php:48
+msgid "Total Amount Due"
+msgstr "Monto total debido"
+
+#: inc/copy.php:49
+#: public/js/admin/editor.js:111816
+#: public/js/admin/editor.js:116945
+msgid "Credit Card"
+msgstr "Tarjeta de crédito"
+
+#: inc/copy.php:50
+#, fuzzy
+msgid "Month / Year"
+msgstr "Mes / Año"
+
+#: inc/copy.php:51
+msgid "CVC"
+msgstr "CVC"
+
+#: inc/copy.php:52
+msgid "Postal Code"
+msgstr "Código Postal"
+
+#: inc/copy.php:53
+msgid "Pay Now"
+msgstr "Pagar ahora"
+
+#: inc/copy.php:54
+#, fuzzy
+msgid "Loading Secure Checkout"
+msgstr "Carga de pago seguro"
+
+#: inc/copy.php:57
+msgid "Thank You!"
+msgstr "¡Gracias!"
+
+#: inc/copy.php:58
+#, fuzzy
+msgid "We have confirmed your appointment on "
+msgstr "Hemos confirmado su cita en"
+
+#: inc/copy.php:59
+msgid "Customer"
+msgstr "Cliente"
+
+#: inc/copy.php:62
+msgid "We look forward to seeing you!"
+msgstr "¡Esperamos verte!"
+
+#: inc/copy.php:63
+msgid "Done"
+msgstr "Hecho"
+
+#: inc/copy.php:66
+#, fuzzy
+msgid "Booking Currently Unavailable"
+msgstr "Reserva actualmente no disponible"
+
+#: inc/copy.php:67
+#, fuzzy
+msgid "Booking appointments is currently unavailable. Please check again later."
+msgstr "Las citas de reserva no están disponibles actualmente. Por favor, vuelva a comprobar más tarde."
+
+#: inc/copy.php:74
+#: public/js/admin/onboarding.js:75252
+#: public/js/admin/services.js:75233
+#: public/js/admin/services.js:76264
+msgid "Price"
+msgstr "Precio"
+
+#: inc/copy.php:76
+msgid "Minutes"
+msgstr "Minutos"
+
+#: inc/copy.php:79
+msgid "services"
+msgstr "servicios"
+
+#: inc/copy.php:86
+#: public/js/admin/editor.js:94513
+#: public/js/admin/editor.js:94561
+msgid "Details"
+msgstr "Detalles"
+
+#: inc/copy.php:87
+msgid "Booked"
+msgstr "Reservado"
+
+#: inc/enqueue.php:154
+#: inc/shortcodes.php:116
+#: public/js/admin/editor.js:91694
+#: public/js/admin/editor.js:114596
+#: public/js/admin/onboarding.js:77351
+#: public/js/admin/onboarding.js:77383
+#: public/js/blocks/default-classes.js:71400
+#: public/js/flows/default-appointment.js:71772
+#: public/js/flows/single-service.js:71772
+msgid "Select"
+msgstr "Seleccionar"
+
+#: inc/enqueue.php:172
+msgid "Selected"
+msgstr "Seleccionado"
+
+#: inc/enqueue.php:208
+msgid "Back"
+msgstr "Volver"
+
+#: inc/menu.php:8
+msgid "Booking"
+msgstr "Reserva"
+
+#: inc/menu.php:15
+msgid "Signup"
+msgstr "Regístrate"
+
+#: inc/menu.php:16
+msgid "Pricing"
+msgstr "Precios"
+
+#: inc/menu.php:17
+msgid "Account Setup"
+msgstr "Configuración de cuenta"
+
+#: inc/menu.php:18
+#, fuzzy
+msgid "Onboarding"
+msgstr "Incorporación"
+
+#: inc/widgets/address.php:6
+#: inc/widgets/address.php:8
+#, fuzzy
+msgid "Start Booking Location Address"
+msgstr "Iniciar la dirección de la ubicación de la reserva"
+
+#: inc/widgets/address.php:55
+#: inc/widgets/classes.php:32
+#: inc/widgets/hours.php:50
+#: inc/widgets/services.php:30
+#: inc/widgets/single-service.php:49
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/address.php:60
+msgid "Map Type"
+msgstr "Tipo de Mapa"
+
+#: inc/widgets/address.php:62
+msgid "Road Map"
+msgstr "Mapa de Camino"
+
+#: inc/widgets/address.php:63
+msgid "Satellite"
+msgstr "Satélite"
+
+#: inc/widgets/address.php:68
+msgid "Map Zoom"
+msgstr "Zoom del Mapa"
+
+#: inc/widgets/address.php:70
+msgid "No Zoom"
+msgstr "Sin Zoom"
+
+#: inc/widgets/address.php:71
+msgid "Level 1"
+msgstr "Planta 1"
+
+#: inc/widgets/address.php:72
+msgid "Level 2"
+msgstr "Nivel 2"
+
+#: inc/widgets/address.php:73
+msgid "Level 3"
+msgstr "Nivel 3"
+
+#: inc/widgets/address.php:74
+msgid "Level 4"
+msgstr "Nivel 4"
+
+#: inc/widgets/address.php:79
+msgid "Marker Color"
+msgstr "Color del marcador"
+
+#: inc/widgets/address.php:81
+msgid "Red"
+msgstr "Rojo"
+
+#: inc/widgets/address.php:82
+msgid "Blue"
+msgstr "Azul"
+
+#: inc/widgets/address.php:83
+msgid "Green"
+msgstr "Verde"
+
+#: inc/widgets/address.php:87
+#, fuzzy
+msgid "Location address is loaded from your account profile at StartBooking.com."
+msgstr "La dirección de ubicación se carga desde el perfil de tu cuenta en StartBooking.com."
+
+#: inc/widgets/address.php:87
+msgid "account"
+msgstr "cuenta"
+
+#: inc/widgets/address.php:87
+msgid "Update Address"
+msgstr "Dirección de actualización"
+
+#: inc/widgets/classes.php:6
+#: inc/widgets/classes.php:8
+#, fuzzy
+msgid "Start Booking Classes"
+msgstr "Iniciar clases de reserva"
+
+#: inc/widgets/classes.php:35
+#, fuzzy
+msgid "Please use the Start Booking dashboard for class schedules and configuration."
+msgstr "Utilice el panel Iniciar reserva para los horarios y la configuración de clases."
+
+#: inc/widgets/hours.php:6
+#: inc/widgets/hours.php:8
+#, fuzzy
+msgid "Start Booking Hours"
+msgstr "Iniciar horario de reserva"
+
+#: inc/widgets/hours.php:37
+msgid "Closed"
+msgstr "Cerrado"
+
+#: inc/widgets/hours.php:54
+#: public/js/admin/editor.js:110932
+#: public/js/admin/editor.js:116052
+msgid "Hide Icon"
+msgstr "Icono de ocultar"
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "Your hours are loaded from your account availability at Start Booking.com."
+msgstr "Sus horas se cargan desde la disponibilidad de su cuenta en Start Booking.com."
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "account/availability"
+msgstr "cuenta/disponibilidad"
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "Manage Availability Hours"
+msgstr "Administrar las horas de disponibilidad"
+
+#: inc/widgets/services.php:6
+#: inc/widgets/services.php:8
+#, fuzzy
+msgid "Start Booking Services"
+msgstr "Iniciar servicios de reserva"
+
+#: inc/widgets/services.php:33
+#, fuzzy
+msgid "To edit the booking form experience, please use the "
+msgstr "Para editar la experiencia del formulario de reserva, utilice el"
+
+#: inc/widgets/services.php:33
+#, fuzzy
+msgid "form editor"
+msgstr "Editor de Formulario"
+
+#: inc/widgets/single-service.php:6
+#: inc/widgets/single-service.php:8
+#, fuzzy
+msgid "Start Booking Single Service"
+msgstr "Iniciar reserva un solo servicio"
+
+#: inc/widgets/single-service.php:56
+msgid "Select a Service"
+msgstr "Seleccione un servicio"
+
+#: inc/widgets/single-service.php:68
+msgid "Service Details"
+msgstr "Detalles del servicio"
+
+#: inc/widgets/single-service.php:70
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: inc/widgets/single-service.php:71
+#, fuzzy
+msgid "Skip Details"
+msgstr "Omitir detalles"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://www.startbooking.com/"
+msgstr "https://www.startbooking.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Integrate online booking service StartBooking.com. Including an appointment form for customers to book directly on your website and a widget to display open hours."
+msgstr "Integre el servicio de reserva en línea StartBooking.com. Incluyendo un formulario de cita para que los clientes reserven directamente en su sitio web y un widget para mostrar las horas de apertura."
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.startbooking.com"
+msgstr "https://www.startbooking.com"
